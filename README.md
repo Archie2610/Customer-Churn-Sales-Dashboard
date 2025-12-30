@@ -1,24 +1,44 @@
 This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service. 
 
-
 <img width="1371" height="805" alt="Churn Dashboard" src="https://github.com/user-attachments/assets/ada1c8f5-ee25-4a46-bca1-ae3f3ff5e912" />
 
+Customer Churn & Retention Reporting Dashboard
+📌 Overview
 
-Key Features:
-Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
+This project analyzes customer churn and retention patterns using structured customer data. The goal was to identify churn trends across demographic segments and present insights through an interactive dashboard.
 
-Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts. Customer Churn Dashboard
+🛠 Tools & Technologies
 
-Built with:
 SQL
-Power BI Desktop
-Advanced Excel
-Key Insights:
-key insights
 
-Benefits:
-Reduce customer loss: Identify and help customers at risk to keep them longer.
-Improve customer satisfaction: Understand customer needs better for better service.
-Make data-driven decisions: Use insights to make better choices for keeping customers happy. Customer Risk Analysis
-Beyond the Dashboard: Communication for Impact
-Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails, I:
+Excel
+
+Power BI
+
+🔍 Key Activities
+
+Cleaned and transformed customer datasets to handle missing values and inconsistencies
+
+Analyzed churn, retention, and cohort trends across demographics
+
+Built interactive dashboards using filters and slicers for easy exploration
+
+📊 Outcomes
+
+Identified customer segments with higher churn risk
+
+Created visual reports to support retention analysis and reporting
+
+Improved clarity and accessibility of customer metrics
+
+📁 Repository Contents
+
+SQL queries for data cleaning and transformation
+
+Power BI dashboard file
+
+Documentation explaining analysis steps
+
+📝 Notes
+
+This project emphasizes data quality, reporting accuracy, and clear communication of analytical findings.
