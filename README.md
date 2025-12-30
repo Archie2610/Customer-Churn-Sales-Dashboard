@@ -1,5 +1,9 @@
 This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service. 
 
+
+<img width="1371" height="805" alt="Churn Dashboard" src="https://github.com/user-attachments/assets/ada1c8f5-ee25-4a46-bca1-ae3f3ff5e912" />
+
+
 Key Features:
 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
